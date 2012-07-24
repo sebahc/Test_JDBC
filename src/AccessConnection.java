@@ -1,5 +1,9 @@
 import java.sql.ResultSet;
 
+/*
+ * Ejemplo de Conexion Access en JDBC a traves de ODBC 
+ */
+
 public class AccessConnection extends GeneralConnection {
 	public AccessConnection() throws Exception {
 		super("sun.jdbc.odbc.JdbcOdbcDriver");
