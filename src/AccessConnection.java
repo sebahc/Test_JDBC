@@ -1,7 +1,7 @@
 import java.sql.ResultSet;
 
 /*
- * Ejemplo de Conexion Access en JDBC a traves de ODBC 
+ * Ejemplo de Conexion Access en JDBC a traves de ODBC version 2.0
  */
 
 public class AccessConnection extends GeneralConnection {
